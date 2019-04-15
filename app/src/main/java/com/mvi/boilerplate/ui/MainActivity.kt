@@ -1,7 +1,8 @@
-package com.mvi.boilerplate
+package com.mvi.boilerplate.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.mvi.boilerplate.R
 
 class MainActivity : AppCompatActivity() {
 
